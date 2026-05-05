@@ -1,4 +1,4 @@
-# 🧠 Ctx2Skill
+# 🧠 Context-2-Skill
 
 A lightweight, from-scratch implementation of the **Ctx2Skill** framework, optimized for Google Colab and powered by OpenRouter. 
 
